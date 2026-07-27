@@ -6,6 +6,8 @@ A professional, interactive Power BI portfolio project tracking quiz performance
 
 This dashboard was built to monitor, analyze, and visualize daily quiz results and academic progress. It transforms raw tracking data into actionable insights, providing both high-level KPIs and granular row-level data exploration.
 
+![Bootcamp Progress Tracker](bootcamp_progress_tracker.webp)
+
 ## 🛠️ Key Features
 
 * **Interactive Slicers:** Filter the entire dashboard dynamically by week to analyze performance trends over time.
